@@ -1,0 +1,20 @@
+{
+  "application": "Emerald eStore",
+  "applicationProcess": "Deploy Emerald",
+  "environment": "DEV",
+  "onlyChanged": "false",
+  "versions": [
+    {
+      "version": "latest",
+      "component": "Emerald-Container"
+    },
+    {
+      "version": "latest",
+      "component": "Emerald-CreditApproval-BAR"
+    },
+    {
+      "version": "latest",
+      "component": "Emerald-Payment-API"
+    }
+  ]
+}
