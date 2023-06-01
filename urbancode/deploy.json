@@ -2,7 +2,7 @@
   "application": "Emerald eStore",
   "applicationProcess": "Deploy Emerald",
   "environment": "DEV",
-  "onlyChanged": "false",
+  "onlyChanged": "true",
   "versions": [
     {
       "version": "latest",
