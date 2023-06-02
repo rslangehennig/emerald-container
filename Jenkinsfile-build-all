@@ -1,0 +1,3 @@
+                   build 'emerald-backend-pipeline'
+                   build 'emerald-container'
+                   build 'emerald-frontend-pipeline'

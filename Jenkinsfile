@@ -33,7 +33,7 @@ node {
           ls -al
           
           export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/
-          export UCD_AUTH_TOKEN="9ec486c6-c7bc-4040-ac1d-f6b6b3e040c7"
+          export UCD_AUTH_TOKEN="9ec486c6-c7bc-xxxx-xxxxx--xxxxxx"
           export UCD_WEB_URL="https://169.62.212.57:8444"
           
           # Clean up files
